@@ -1,8 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Jenkins Classes <font></h1>
-
-<a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
+<h1><font color='red'> Welcome to Jenkins Classes Day 2 <font></h1>
   
   <h2> Thank you</h2>
   
