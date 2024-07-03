@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Jenkins Classes Day 2 <font></h1>
+<h1><font color='red'> Welcome to Jenkins WebHook Classes <font></h1>
   
   <h2> Thank you</h2>
   
